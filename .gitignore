@@ -1,0 +1,10 @@
+*.zip
+github-repo/
+*.joblib
+*.csv
+*.pptx
+__pycache__/
+*.pyc
+.env
+*.pem
+.ipynb_checkpoints/
