@@ -6,9 +6,15 @@
 ![ML](https://img.shields.io/badge/ML-Scikit--Learn-green?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-**DATA 608 – Big Data Systems | Group 1**
-Rio Sibuea · Alejandro Alvarado · Ifeanyi Njoku
-University of Calgary — Master of Data Science and Analytics — March 2026
+**Data Engineering - Machine Learning - Cloud Computing**
+
+University of Calgary | Master of Data Science and Analytics | March 2026
+
+---
+
+## Project Team
+
+**Rio Sibuea | Alejandro Alvarado | Ifeanyi Njoku**
 
 ---
 
@@ -137,16 +143,6 @@ Open http://localhost:8501
 | Data flows end-to-end from sensor to dashboard | Achieved |
 | ML model classifies Normal, Anomaly, Critical in real time | Achieved |
 | SNS email alert delivered to Operations Team on anomaly | Achieved |
-
----
-
-## Project Team
-
-| Member | Role |
-|---|---|
-| Rio Sibuea | Sensor data ingestion and Kinesis streaming architecture |
-| Alejandro Alvarado | ML model development and Lambda integration |
-| Ifeanyi Njoku | Streamlit dashboard and SNS alert notifications |
 
 ---
 
